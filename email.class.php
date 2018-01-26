@@ -273,7 +273,6 @@ $this->log_write("Error: Cannot resolve MX \"".$domain."\"\n");
 return FALSE;
 
 }
-//专注与php学习 http://www.daixiaorui.com 欢迎您的访问
 
 foreach ($MXHOSTS as $host) {
 
